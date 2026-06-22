@@ -29,13 +29,13 @@ I'm **Rokon Uz Zaman**, a passionate Web Developer and tech enthusiast. Currentl
 * 💻 A Tech Content Creator at YouTube. Channel Name [Channel Name Custom](#)
 * 🗃️ [All of my repositories are available at Github](https://github.com/rokonlineofficial?tab=repositories)
 * 📧 How to reach me: Gmail [email@rokonline.com](mailto:email@rokonline.com)
-* 🌐 Visit my social media using this username **rokonlineofficial** such as: [https://www.facebook.com/rokonlineinc](https://www.facebook.com/rokonlineinc)
+* 📞 Phone: [+(704) 412-6928](tel:7044126928)
 
 ---
 
 ### Stay connected with me
 <p align="left">
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/company/rokonline/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/rokonlineinc" target="_blank">
@@ -44,7 +44,16 @@ I'm **Rokon Uz Zaman**, a passionate Web Developer and tech enthusiast. Currentl
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
+  <a href="https://x.com/rokonlineinc" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.pinterest.com/rokonlineinc/" target="_blank">
+    <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
