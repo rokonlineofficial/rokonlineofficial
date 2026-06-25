@@ -41,7 +41,7 @@ I'm **Rokon Uz Zaman**, a passionate Web Developer and tech enthusiast. Currentl
   <a href="https://www.facebook.com/rokonlineinc" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.youtube.com/@rokonline" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://x.com/rokonlineinc" target="_blank">
