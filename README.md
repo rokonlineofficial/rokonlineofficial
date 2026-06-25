@@ -3,7 +3,6 @@
 I'm **Rokon Uz Zaman**, a passionate Web Developer and tech enthusiast. Currently leading things at **Rok Online Inc**. I love creating modern, meaningful, and efficient web solutions. Let's build amazing things together!
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
   <img src="https://img.shields.io/badge/Elementor-D11A56?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
