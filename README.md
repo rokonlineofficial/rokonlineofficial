@@ -28,7 +28,7 @@ I'm **Rokon Uz Zaman**, a passionate Web Developer and tech enthusiast. Currentl
 * 💻 A Tech Content Creator at YouTube. Channel Name [Channel Name Custom](#)
 * 🗃️ [All of my repositories are available at Github](https://github.com/rokonlineofficial?tab=repositories)
 * 📧 How to reach me: Gmail [email@rokonline.com](mailto:email@rokonline.com)
-* 📞 Phone: [+(704) 412-6928](tel:7044126928)
+* 📞 Phone: [+91 7044126928](tel:+917044126928)
 
 ---
 
