@@ -47,7 +47,7 @@ I'm **Rokon Uz Zaman**, a passionate Web Developer and tech enthusiast. Currentl
   <a href="https://x.com/rokonlineinc" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.instagram.com/rokonlineinc/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.pinterest.com/rokonlineinc/" target="_blank">
