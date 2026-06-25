@@ -53,7 +53,7 @@ I'm **Rokon Uz Zaman**, a passionate Web Developer and tech enthusiast. Currentl
   <a href="https://www.pinterest.com/rokonlineinc/" target="_blank">
     <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" />
   </a>
-  <a href="[tel:](https://wa.me/7044126928)" target="_blank">
+  <a href="https://wa.me/7044126928" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
