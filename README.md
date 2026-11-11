@@ -44,6 +44,7 @@ I'm **Rokon Uz Zaman**, a passionate Web Developer and tech enthusiast. Currentl
 | 🏷️ **Rok Brands A-Z Filter** | [View Site ↗️](https://parkerhamilton.store/) | [GitHub Code 💻](https://github.com/rokonlineofficial/brands-az-filter) | [Download Plugin 📥](https://github.com/rokonlineofficial/brands-az-filter/releases/download/v3.0.0/brands-az-filter.zip) |
 | 🛒 **Rok PH Tabbed Cart Panel** | [View Site ↗️](https://parkerhamilton.store/) | [GitHub Code 💻](https://github.com/rokonlineofficial/ph-tabbed-cart) | [Download Plugin 📥](https://github.com/rokonlineofficial/ph-tabbed-cart/releases/download/v1.0.1/ph-tabbed-cart.zip) |
 | 💱 **Rok Geo Currency** | [View Site ↗️](https://parkerhamilton.store/) | [GitHub Code 💻](https://github.com/rokonlineofficial/rokonline-geo-currency) | [Download Plugin 📥](https://github.com/rokonlineofficial/rokonline-geo-currency/releases/download/v3.0.0/rokonline-geo-currency.zip) |
+| 🌙 **Simple Dark Mode Toggle** | [Live Demo ↗️](https://parkerhamilton.store/) | [GitHub Code 💻](https://github.com/rokonlineofficial/dark-mode-toggle) | [Download Plugin 📥](https://github.com/rokonlineofficial/dark-mode-toggle/releases/download/v1.0.0/dark-mode-toggle.zip) |
 
 ---
 
