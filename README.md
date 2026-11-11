@@ -41,6 +41,7 @@ I'm **Rokon Uz Zaman**, a passionate Web Developer and tech enthusiast. Currentl
 | Plugin Name | Live Website | Source Code | Download |
 | :--- | :--- | :--- | :--- |
 | 📦 **Junk Removal Quote System** | [View Site ↗️](https://junkrobbers.com/) | [GitHub Code 💻](https://github.com/rokonlineofficial/ai-junk-quotes) | [Download Plugin 📥](https://github.com/rokonlineofficial/ai-junk-quotes/releases/download/v1.2.7/ai-junk-quote.zip) |
+| 🏷️ **Rok Brands A-Z Filter** | [View Site ↗️](https://parkerhamilton.store/) | [GitHub Code 💻](https://github.com/rokonlineofficial/brands-az-filter) | [Download Plugin 📥](https://github.com/rokonlineofficial/brands-az-filter/releases/download/v3.0.0/brands-az-filter.zip) |
 
 ---
 
