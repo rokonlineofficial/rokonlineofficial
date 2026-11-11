@@ -36,6 +36,12 @@ I'm **Rokon Uz Zaman**, a passionate Web Developer and tech enthusiast. Currentl
 
 ---
 
+### 🧩 Custom WordPress Plugins & Tools
+
+| Plugin Name | Live Website | Source Code | Download |
+| :--- | :--- | :--- | :--- |
+| 📦 **Junk Removal Quote System** | [View Site ↗️](https://junkrobbers.com/) | [GitHub Code 💻](https://github.com/rokonlineofficial/ai-junk-quotes) | [Download ZIP 📥](https://github.com/rokonlineofficial/ai-junk-quotes/archive/refs/heads/main.zip) |
+
 ---
 
 * 💬 Ask me about **Web Development, WordPress Customization, and Frontend Technologies.**
