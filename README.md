@@ -45,6 +45,7 @@ I'm **Rokon Uz Zaman**, a passionate Web Developer and tech enthusiast. Currentl
 | 🛒 **Rok PH Tabbed Cart Panel** | [View Site ↗️](https://parkerhamilton.store/) | [GitHub Code 💻](https://github.com/rokonlineofficial/ph-tabbed-cart) | [Download Plugin 📥](https://github.com/rokonlineofficial/ph-tabbed-cart/releases/download/v1.0.1/ph-tabbed-cart.zip) |
 | 💱 **Rok Geo Currency** | [View Site ↗️](https://parkerhamilton.store/) | [GitHub Code 💻](https://github.com/rokonlineofficial/rokonline-geo-currency) | [Download Plugin 📥](https://github.com/rokonlineofficial/rokonline-geo-currency/releases/download/v3.0.0/rokonline-geo-currency.zip) |
 | 🌙 **Simple Dark Mode Toggle** | [Live Demo ↗️](https://parkerhamilton.store/) | [GitHub Code 💻](https://github.com/rokonlineofficial/dark-mode-toggle) | [Download Plugin 📥](https://github.com/rokonlineofficial/dark-mode-toggle/releases/download/v1.0.0/dark-mode-toggle.zip) |
+| 👓 **Eyeglass Customizer (Step Form)** | [View Site ↗️](https://parkerhamilton.store/) | [GitHub Code 💻](https://github.com/rokonlineofficial/parkerhamilton-eye-glass-customizer) | [Download Plugin 📥](https://github.com/rokonlineofficial/parkerhamilton-eye-glass-customizer/releases/download/v3.0.0/parkerhamilton-eye-glass-customizer.zip) |
 
 ---
 
