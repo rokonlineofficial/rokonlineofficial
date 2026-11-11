@@ -48,6 +48,7 @@ I'm **Rokon Uz Zaman**, a passionate Web Developer and tech enthusiast. Currentl
 | 👓 **Eyeglass Customizer (Step Form)** | [View Site ↗️](https://parkerhamilton.store/) | [GitHub Code 💻](https://github.com/rokonlineofficial/parkerhamilton-eye-glass-customizer) | [Download Plugin 📥](https://github.com/rokonlineofficial/parkerhamilton-eye-glass-customizer/releases/download/v3.0.0/parkerhamilton-eye-glass-customizer.zip) |
 | 🏡 **Property Search Filter** | [View Site ↗️](https://legacyestates.xyz/) | [GitHub Code 💻](https://github.com/rokonlineofficial/property-search-filter) | [Download Plugin 📥](https://github.com/rokonlineofficial/property-search-filter/releases/download/v0.1/property-search-filter.zip) |
 | 🧹 **Cleaning Booking Calculator** | [View Site ↗️](https://cleaniqfoxcities.com/) | [GitHub Code 💻](https://github.com/rokonlineofficial/clean-iq-foxci) | [Download Plugin 📥](https://github.com/rokonlineofficial/clean-iq-foxci/releases/download/v1.2.0/clean-iq-foxci.zip) |
+| 🧼 **MAID IT Booking Calculator** | [View Site ↗️](https://maidit.net/) | [GitHub Code 💻](https://github.com/rokonlineofficial/maidit-cleaning-booking-calculator) | [Download Plugin 📥](https://github.com/rokonlineofficial/maidit-cleaning-booking-calculator/releases/download/v2.8.0/maidit-cleaning-booking-calculator.zip) |
 
 ---
 
